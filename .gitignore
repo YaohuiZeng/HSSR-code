@@ -1,0 +1,7 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Mac file
+.DS_Store
+.Rproj.user
